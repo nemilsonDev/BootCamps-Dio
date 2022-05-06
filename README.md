@@ -1,5 +1,5 @@
-# Desafio do projeto Git / Github
-Repositorio criado para o desafio de projeto
+# Desniado para Bootcamps da DIO
+Repositorio criado para acompanhamento de Bootcamps
 
 ## links úteis
 
