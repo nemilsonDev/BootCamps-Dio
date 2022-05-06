@@ -1,5 +1,5 @@
-# Desafio do projeto Git / Github
-Repositorio criado para o desafio de projeto
+# BootCamp GFT#5
+Repositorio criado Exercicios
 
 ## links úteis
 
