@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37f929da-5b49-4f11-a4e2-c5b99d087807" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/lacos-e-arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/Ex2_Consoantes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/Ex3_NumerosAleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/Ex4_ArrayMultidimensional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/comentado/ArrayMultidimensional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/comentado/Consoantes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/comentado/NumerosAleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/comentado/OrdemInversa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/arrays/comentado/anotacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex1_NomeEIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex2_Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex4_ParEImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex5_Tabuada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/Ex6_Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/MaiorEMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/NomeEIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/ParEImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/production/lacos-e-arrays/br/com/dio/exercicios/loops/comentado/Tabuada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/lacos-e-arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/Ex2_Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/Ex4_ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/comentado/ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/comentado/Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/comentado/NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/comentado/OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/arrays/comentado/anotacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex1_NomeEIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex2_Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/MaiorEMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/NomeEIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/ParEImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/out/test/lacos-e-arrays/src/br/com/dio/exercicios/loops/comentado/Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/Ex2_Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/Ex4_ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/comentado/ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/comentado/Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/comentado/NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/comentado/OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/arrays/comentado/anotacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex1_NomeEIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex2_Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/Fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/MaiorEMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/NomeEIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/ParEImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCamp GFT#5/Modulo III - Java Fundamental/Estruturas de repetição e Arrays em Java/loops-e-arrays/src/br/com/dio/exercicios/loops/comentado/Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28nw5aC5oKoRo8ozj1hFyE6TvpD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/NsamDev/Documents/Programacao JAVA/BootCamps-Dio"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f929da-5b49-4f11-a4e2-c5b99d087807" name="Changes" comment="" />
+      <created>1651865478311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651865478311</updated>
+    </task>
+    <servers />
+  </component>
+</project>
