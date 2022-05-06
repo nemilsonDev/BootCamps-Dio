@@ -1,4 +1,4 @@
-# Desniado para Bootcamps da DIO
+# Destinado para Bootcamps da DIO
 Repositorio criado para acompanhamento de Bootcamps
 
 ## links úteis
